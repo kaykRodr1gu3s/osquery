@@ -10,7 +10,7 @@ Este código é usado para fazer a interação com o Elastic SIEM para criar, li
 
 
 ## Como utilizar 
-No campo json passe a sua query ja pronta.
+No campo json passe a sua query com todos os parâmetro necessários, siga o exemplo abaixo.
 
 ```python
  json={

@@ -5,6 +5,7 @@
 
 Este código é usado para fazer a interação com o Elastic SIEM para criar, lista queries com a integração do Osquery.
 
+![images](https://github.com/kaykRodr1gu3s/osquery/assets/110197812/8d72536d-86f2-48ae-8df7-831ff073d3c6)
 
 
 
